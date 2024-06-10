@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800169425126",
+    "project_id": "gregorioexer9",
+    "storage_bucket": "gregorioexer9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800169425126:android:af3093fecb829b69a62327",
+        "android_client_info": {
+          "package_name": "com.example.gregorioexer9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAax5Xi3r_Lb3plBcLEt8E7IAdww-DyeaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
